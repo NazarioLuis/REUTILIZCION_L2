@@ -1,3 +1,3 @@
 # REUTILIZCION_L2
 
-Proyecto de reutilizacion de componentes Java Swing
+Proyecto de reutilizacion de componentes para Java Swing
