@@ -13,7 +13,7 @@ public class MiBoton extends JButton{
 
 	public MiBoton() {
 		setForeground(Color.WHITE);
-		setBackground(new Color(0, 102, 0));
+		setBackground(new Color(13, 55, 15));
 		
 		super.setText("TEXTO");
 		
